@@ -1,0 +1,1 @@
+A guessing game based on the chapter 2 of "The Rust programming language" book
